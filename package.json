@@ -1,5 +1,5 @@
 {
-  "name": "mocha-teamcity-reporter",
+  "name": "teamcity-saucelabs-reporter",
   "version": "0.0.1",
   "description": "teamcity reporter for mocha",
   "main": "index.js",
